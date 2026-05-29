@@ -3,8 +3,10 @@ site_name: Payment Service Docs
 nav:
   - Home: index.md
   - Help: help.md
+  - Instalation: techfiledemo.md
 
 docs_dir: docs
 
 plugins:
   - techdocs-core
+ 
